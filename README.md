@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yashu_krish11</h1>
 <h3 align="center">A passionate automate tester🤖</h3>
-<img align="right" alt="Coding" width="800" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
+<img align="right" alt="Coding" width="800" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif")
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashu1wwww&label=Profile%20views&color=0e75b6&style=flat" alt="yashu1wwww" /> </p>
