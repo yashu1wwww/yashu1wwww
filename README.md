@@ -1,5 +1,4 @@
-![MasterHead](https://c.tenor.com/6aSncIN19j8AAAAM/banner.gif)
-![MasterHead](https://raw.githubusercontent.com/yashu1wwww/Bookmyshow-auto-ratings/main/PicsArt_08-21-04.22.16%20(1).gif)
+![MasterHead](https://c.tenor.com/qV9QZcasa-QAAAAd/welcome.gif)
 <h1 align="center">Hi 👋, I'm Yashu_krish11</h1>
 <h3 align="center">A passionate automate tester🤖</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif")
