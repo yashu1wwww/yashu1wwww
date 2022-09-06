@@ -14,11 +14,11 @@
 
 - 💬 Ask me about **Bots**
 
--About Me:- **𝙁𝙞𝙧𝙨𝙩 𝙄𝙣𝙙𝙞𝙖𝙣 🇮🇳 𝙏𝙤 𝙐𝙥𝙡𝙤𝙖𝙙 𝘽𝙢𝙨 𝘼𝙪𝙩𝙤 𝙍𝙖𝙩𝙞𝙣𝙜𝙨 𝙒𝙞𝙩𝙝 𝙈𝙪𝙡𝙩𝙞𝙥𝙡𝙚 𝙈𝙖𝙞𝙡𝙨 𝙏𝙤 𝙂𝙞𝙩𝙝𝙪𝙗**
+- About Me:- **𝙁𝙞𝙧𝙨𝙩 𝙄𝙣𝙙𝙞𝙖𝙣 🇮🇳 𝙏𝙤 𝙐𝙥𝙡𝙤𝙖𝙙 𝘽𝙢𝙨 𝘼𝙪𝙩𝙤 𝙍𝙖𝙩𝙞𝙣𝙜𝙨 𝙒𝙞𝙩𝙝 𝙈𝙪𝙡𝙩𝙞𝙥𝙡𝙚 𝙈𝙖𝙞𝙡𝙨 𝙏𝙤 𝙂𝙞𝙩𝙝𝙪𝙗**
 
 - 📫 How to reach me **https://rb.gy/2rfjz7**
 
-- ⚡ Fun fact **Boring with like & comment in social media apps so automate**
+- ⚡ Fun fact **Boring To Login,Like,Comment In Social Media Apps so Automated**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
