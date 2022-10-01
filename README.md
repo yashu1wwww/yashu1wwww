@@ -2,7 +2,7 @@
 
 ![MasterHead](https://github.com/yashu1wwww/Bookmyshow-auto-ratings/blob/main/ezgif.com-gif-maker.gif)
 <h1 align="center">Hi 👋, I'm Yashu_krish11</h1>
-<h3 align="center">A passionate automate tester🤖</h3>
+<h3 align="center">A Passionate Automate Tester🤖</h3>
 <img align="right" alt="Coding" width="300" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif")
 
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me:- **yashuvirat08@gmail.com**
 
--🐦 Twitter:- **https://mobile.twitter.com/Yashu_Krish11**
+- 🐦 Twitter:- **https://mobile.twitter.com/Yashu_Krish11**
 
 - ⚡ Fun Fact:- **Boring To Login,Like,Comment In Social Media Apps so Automated**
 
