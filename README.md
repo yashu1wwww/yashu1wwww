@@ -18,9 +18,9 @@
 
 - 📫 **How to reach me**:-
 
--  **Gmail**:- **yashuvirat08@gmail.com**
+-  **💌Gmail**:- **yashuvirat08@gmail.com**
 
-- 🐦 **Twitter**:- **https://mobile.twitter.com/Yashu_Krish11**
+- 🐦**Twitter**:- **https://mobile.twitter.com/Yashu_Krish11**
 
 - **Instagram**:- **https://instagram.com/yashwanth_gowda1111?igshid=YmMyMTA2M2Y=**
 
