@@ -22,8 +22,6 @@
 
 - 🐦**Twitter**:- **https://mobile.twitter.com/Yashu_Krish11**
 
-- **Instagram**:- **https://instagram.com/yashwanth_gowda1111?igshid=YmMyMTA2M2Y=**
-
 - ⚡ Fun Fact:- **Boring To Login,Like,Comments In Social Media Apps so Automated...**
 
 <h3 align="left">Languages and Tools:</h3>
