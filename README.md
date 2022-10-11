@@ -20,9 +20,9 @@
 
 - 📫 **How to reach me**:-
 
--  **💌Gmail**:- **yashuvirat08@gmail.com**
+-  **💌𝐆𝐦𝐚𝐢𝐥**:- **yashuvirat08@gmail.com**
 
-- 🐦**Twitter**:- **https://mobile.twitter.com/Yashu_Krish11**
+- 🐦**🆃🆆🅸🆃🆃🅴🆁r**:- **https://mobile.twitter.com/Yashu_Krish11**
 
 - ⚡ Fun Fact:- **Boring To Login,Like,Comments In Social Media Apps so Automated...**
 
