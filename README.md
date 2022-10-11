@@ -10,6 +10,7 @@
 
 <br> [![Github](https://img.shields.io/github/followers/yashu1wwww??label=Followers&logo=Github)](https://github.com/yashu1wwww)
 ![](https://visitor-badge.laobi.icu/badge?page_id=MartinHeinz.MartinHeinz)<br><br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashu1wwww" alt="yashu1wwww" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
