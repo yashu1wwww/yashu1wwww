@@ -1,5 +1,3 @@
-<br> [![Github](https://img.shields.io/github/followers/yashu1wwww??label=Followers&logo=Github)](https://github.com/yashu1wwww) ![]
-
 ![MasterHead](https://raw.githubusercontent.com/yashu1wwww/Lms-Auto-Login-/main/text.gif)
 
 ![MasterHead](https://github.com/yashu1wwww/Bookmyshow-auto-ratings/blob/main/ezgif.com-gif-maker.gif)
