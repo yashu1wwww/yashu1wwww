@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="300" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif")
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashu1wwww&label=visitors%20views&color=0e75b6&style=flat" alt="yashu1wwww" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashu1wwww&label=Porfilevisitors%20&color=0e75b6&style=flat" alt="yashu1wwww" /> </p>
 
 <br> [![Github](https://img.shields.io/github/followers/yashu1wwww??label=Followers&logo=Github)](https://github.com/yashu1wwww)
 
