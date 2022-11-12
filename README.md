@@ -3,7 +3,7 @@
 ![MasterHead](https://github.com/yashu1wwww/Bookmyshow-auto-ratings/blob/main/ezgif.com-gif-maker.gif)
 <h1 align="center">Hi 👋 I'm Yashu_krish11</h1>
 <h3 align="center">A Passionate Automate Tester🤖</h3>
-<img align="right" alt="Coding" width="100" src="https://i.pinimg.com/originals/a4/10/2c/a4102c88e38d11babed2452d9ebd582c.gif")
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a4/10/2c/a4102c88e38d11babed2452d9ebd582c.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashu1wwww&label=Profile Visitors%20&color=0e75b6&style=flat" alt="yashu1wwww" /> </p>
 
