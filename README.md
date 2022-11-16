@@ -1,6 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/yashu1wwww/Lms-Auto-Login-/main/text.gif)
 
-![MasterHead](https://github.com/yashu1wwww/Bookmyshow-auto-ratings/blob/main/ezgif.com-gif-maker.gif)
+![MasterHead](https://www.ais-cpa.com/wp-content/uploads/2020/02/software-developer-gif.gif)
 <h1 align="center">Hi 👋 I'm Yashu_krish11</h1>
 <h3 align="center">A Passionate Automate Tester🤖</h3>
 <img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/a4/10/2c/a4102c88e38d11babed2452d9ebd582c.gif")
