@@ -2,7 +2,7 @@
 
 ![MasterHead](https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)
 <h1 align="center">Hi 👋 I'm Yashu_krish11</h1>
-<h3 align="center">A Passionate Automate Tester🤖</h3>
+<h3 align="center">A Passionate Bot Deveeloper🤖</h3>
 <img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/a4/10/2c/a4102c88e38d11babed2452d9ebd582c.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashu1wwww&label=Profile Visitors%20&color=0e75b6&style=flat" alt="yashu1wwww" /> </p>
