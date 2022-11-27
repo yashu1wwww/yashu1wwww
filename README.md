@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/yashu1wwww/Lms-Auto-Login-/main/text.gif)
+![MasterHead](https://github.com/yashu1wwww/Imdb-auto-ratings/blob/main/text.gif)
 
 ![MasterHead](https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)
 <h1 align="center">Hi 👋 I'm Yashu_krish11</h1>
