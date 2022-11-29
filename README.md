@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/yashu1wwww/Imdb-auto-ratings/blob/main/text.gif)
 
-![MasterHead](https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)
+![MasterHead](https://raw.githubusercontent.com/AyoubMs/AyoubMS/main/Banner.gif)
 <h1 align="center">Hi 👋 I'm Yashu_krish11</h1>
 <h3 align="center">𝘼 𝙋𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝘽𝙤𝙩 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧🤖</h3>
 <img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/a4/10/2c/a4102c88e38d11babed2452d9ebd582c.gif")
