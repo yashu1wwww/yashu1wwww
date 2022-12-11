@@ -19,7 +19,7 @@
 
 - 📫 **𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞**:-
 
--  **💌𝐆𝐦𝐚𝐢𝐥**:- **yashuvirat08@gmail.com**
+-  **💌𝐆𝐦𝐚𝐢𝐥**:- **yakannaohoh@gmail.com**
 
 - 🐦**𝐓𝐰𝐢𝐭𝐭𝐞𝐫**:- **https://mobile.twitter.com/Yashu_Krish11**
 
