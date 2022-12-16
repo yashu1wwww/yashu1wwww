@@ -1,5 +1,6 @@
 ![MasterHead](https://github.com/yashu1wwww/Imdb-auto-ratings/blob/main/text.gif)
-![MasterHead](https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-1,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg)
+![MasterHead](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)
+
 
 <h1 align="center">Hi 👋 I'm Yashu_krish11</h1>
 <h3 align="center">𝘼 𝙋𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝘽𝙤𝙩 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧🤖</h3>
