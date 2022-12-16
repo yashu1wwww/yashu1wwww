@@ -17,17 +17,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 𝐀𝐬𝐤 𝐦𝐞 𝐚𝐛𝐨𝐮𝐭 **𝘽𝙤𝙩𝙨**
+- 💬 𝐀𝐬𝐤 𝐦𝐞 𝐚𝐛𝐨𝐮𝐭 :- **𝘽𝙤𝙩𝙨**
 
 - 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞:- **𝙈𝙖𝙮 𝘽𝙚 𝘼𝙣𝙮 𝙊𝙣𝙚 𝘿𝙤𝙣𝙚 𝙏𝙝𝙚𝙨𝙚 𝘽𝙪𝙩 𝙄 𝘼𝙢 𝙒𝙖𝙨 𝙏𝙝𝙚 𝙁𝙞𝙧𝙨𝙩 𝙋𝙚𝙧𝙨𝙤𝙣 𝙏𝙤 𝙐𝙥𝙡𝙤𝙖𝙙 𝘽𝙢𝙨 𝘼𝙪𝙩𝙤 𝙍𝙖𝙩𝙞𝙣𝙜𝙨 𝙒𝙞𝙩𝙝 𝙈𝙪𝙡𝙩𝙞𝙥𝙡𝙚 𝙈𝙖𝙞𝙡𝙨 𝙏𝙤 𝙂𝙞𝙩𝙝𝙪𝙗**
 
 - ⚡ **𝗙𝘂𝗻 𝗙𝗮𝗰𝘁**:- **𝗕𝗼𝗿𝗶𝗻𝗴 𝗧𝗼 𝗟𝗼𝗴𝗶𝗻,𝗟𝗶𝗸𝗲,𝗖𝗼𝗺𝗺𝗲𝗻𝘁𝘀 𝗜𝗻 𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮 𝗔𝗽𝗽𝘀 𝘀𝗼 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗲𝗱..**
 
 # 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-](https://www.linkedin.com/in/yashawanth-r-750b7918b/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-](yakannaohoh@gmail.com)
+- **yakannaohoh@gmail.com**
+
 
 
 
