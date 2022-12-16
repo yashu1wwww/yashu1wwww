@@ -1,4 +1,5 @@
-![MasterHead](https://github.com/yashu1wwww/Imdb-auto-ratings/blob/main/text.gif)
+<h3 align="center">𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊 𝘽𝙊𝙏 𝙒𝙊𝙍𝙇𝘿</h3>
+
 ![MasterHead](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)
 
 <h1 align="center">Hi 👋 I'm Yashu_krish11</h1>
