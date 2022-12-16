@@ -1,4 +1,5 @@
-<h3 align="center">𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊 𝘽𝙊𝙏 𝙒𝙊𝙍𝙇𝘿</h3>
+
+<h1 align="center">Welcome To Bot World</h1>
 
 ![MasterHead](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)
 
@@ -20,12 +21,16 @@
 
 - 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞:- **𝙈𝙖𝙮 𝘽𝙚 𝘼𝙣𝙮 𝙊𝙣𝙚 𝘿𝙤𝙣𝙚 𝙏𝙝𝙚𝙨𝙚 𝘽𝙪𝙩 𝙄 𝘼𝙢 𝙒𝙖𝙨 𝙏𝙝𝙚 𝙁𝙞𝙧𝙨𝙩 𝙋𝙚𝙧𝙨𝙤𝙣 𝙏𝙤 𝙐𝙥𝙡𝙤𝙖𝙙 𝘽𝙢𝙨 𝘼𝙪𝙩𝙤 𝙍𝙖𝙩𝙞𝙣𝙜𝙨 𝙒𝙞𝙩𝙝 𝙈𝙪𝙡𝙩𝙞𝙥𝙡𝙚 𝙈𝙖𝙞𝙡𝙨 𝙏𝙤 𝙂𝙞𝙩𝙝𝙪𝙗**
 
+- ⚡ **𝗙𝘂𝗻 𝗙𝗮𝗰𝘁**:- **𝗕𝗼𝗿𝗶𝗻𝗴 𝗧𝗼 𝗟𝗼𝗴𝗶𝗻,𝗟𝗶𝗸𝗲,𝗖𝗼𝗺𝗺𝗲𝗻𝘁𝘀 𝗜𝗻 𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮 𝗔𝗽𝗽𝘀 𝘀𝗼 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗲𝗱..**
+
 - 📫 **𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞**:-
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhashgurumurthykashyap/)
-[![Gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](yakannaohoh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+](https://www.linkedin.com/in/yashawanth-r-750b7918b/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+](yakannaohoh@gmail.com)
 
-- ⚡ **𝗙𝘂𝗻 𝗙𝗮𝗰𝘁**:- **𝗕𝗼𝗿𝗶𝗻𝗴 𝗧𝗼 𝗟𝗼𝗴𝗶𝗻,𝗟𝗶𝗸𝗲,𝗖𝗼𝗺𝗺𝗲𝗻𝘁𝘀 𝗜𝗻 𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮 𝗔𝗽𝗽𝘀 𝘀𝗼 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗲𝗱..**
+
 
 # 💻Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
