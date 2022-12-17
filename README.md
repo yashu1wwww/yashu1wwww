@@ -6,11 +6,11 @@
 <h1 align="center">Hi 👋 I'm Yashu_krish11</h1>
 <h3 align="center">𝘼 𝙋𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝘽𝙤𝙩 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧🤖</h3>
 
-<p align="center"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yashu1wwww&label=Profile Visitors%20&color=0e75b6&style=flat" alt="yashu1wwww" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yashu1wwww&label=PROFILE VIEWS  &color=red&style=flat"/> </p> 
 
-<p align="center"> <img src="https://img.shields.io/github/followers/yashu1wwww??label=Followers&logo=Github"/ > </p>
+
+<p align="center"> <img src="https://img.shields.io/github/followers/yashu1wwww?style=flat&label=FOLLOWERS"/> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashu1wwww" alt="yashu1wwww" /></a> </p>
 
