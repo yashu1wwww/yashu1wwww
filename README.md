@@ -11,6 +11,8 @@
 <h3 align="center">𝘼 𝙋𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝘽𝙤𝙩 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧🤖</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yashu1wwww&label=PROFILE VIEWS  &color=blue&style=flat" alt="yashu1wwww"/>
+  
+<p align="center"> <a href="https://twitter.com/Yashu_Krish11" target="blank"><img src="https://img.shields.io/twitter/follow/Yashu_Krish11?logo=twitter&style=for-the-badge" alt="Yashu_Krish11" /></a> </p>
 
 - 𝘼𝙨𝙠 𝙈𝙚 𝘼𝙗𝙤𝙪𝙩:- Bots🤖
 - 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚:- May Be Any One Done These But I Am Was The 1st Person To Upload Bookmyshow Auto Ratings With Multiple Mails To Github
