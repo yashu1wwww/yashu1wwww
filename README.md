@@ -44,7 +44,7 @@
 [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](yashwanth6675@okhdfcbank)
 
 
-## **GitHub Trophies :-**
+# **GitHub Trophies :-**
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
 
 <p align="center">
