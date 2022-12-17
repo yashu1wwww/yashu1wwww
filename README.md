@@ -10,12 +10,8 @@
 <h1 align="center">Hi 👋 I'm Yashu_krish11</h1>
 <h3 align="center">𝘼 𝙋𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝘽𝙤𝙩 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧🤖</h3>
 
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yashu1wwww&label=PROFILE VIEWS  &color=blue&style=flat" alt="yashu1wwww"/>
 
-
-<p align="center"> <img src="https://img.shields.io/github/followers/yashu1wwww?style=flat&label=FOLLOWERS" alt="yashu1wwww"/>
-  
 # Ask Me About:- Bots🤖
 # About Me:- May Be Any One Done These But I Am Was The 1st Person To Upload Bookmyshow Auto Ratings With Multiple Mails To Github
 # ⚡Fun Fact:- Boring To Login,Likes & Comments In Social Media Apps So Automated💻
