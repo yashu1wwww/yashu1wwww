@@ -14,7 +14,7 @@
   
 # Ask Me About:- Bots🤖
 # About Me:- May Be Any One Done These But I Am Was The 1st Person To Upload Bookmyshow Auto Ratings With Multiple Mails To Github
-# ⚡Fun Fact:- Boring To Login,Likes & Comments In Social Media Apps So Automated
+# ⚡Fun Fact:- Boring To Login,Likes & Comments In Social Media Apps So Automated💻
 
 
 # 🌐Socials
