@@ -1,5 +1,5 @@
 
-<h1 align="center">Welcome To Bot World</h1>
+<h1 align="center">Welcome To Bot World!</h1>
 
 ![MasterHead](https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966)
 
@@ -11,15 +11,11 @@
 
 
 <p align="center"> <img src="https://img.shields.io/github/followers/yashu1wwww?style=flat&label=FOLLOWERS" alt="yashu1wwww"/>
+  
+- 💬 Ask Me About:- **Bots**🤖.
+- About Me:- **May Be Any One Done These But I Am Was The 1st Person To Upload Bookmyshow Auto Ratings With Multiple Mails**.
+- ⚡Fun Fact:- **Boring To Login,Likes & Comments In Social Media Apps So Automated**.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashu1wwww" alt="yashu1wwww" /></a> </p>
-
-
-- 💬 𝘼𝙨𝙠 𝙈𝙚 𝘼𝙗𝙤𝙪𝙩 :- **𝘽𝙤𝙩𝙨**
-
-- 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞:- **𝙈𝙖𝙮 𝘽𝙚 𝘼𝙣𝙮 𝙊𝙣𝙚 𝘿𝙤𝙣𝙚 𝙏𝙝𝙚𝙨𝙚 𝘽𝙪𝙩 𝙄 𝘼𝙢 𝙒𝙖𝙨 𝙏𝙝𝙚 𝙁𝙞𝙧𝙨𝙩 𝙋𝙚𝙧𝙨𝙤𝙣 𝙏𝙤 𝙐𝙥𝙡𝙤𝙖𝙙 𝘽𝙢𝙨 𝘼𝙪𝙩𝙤 𝙍𝙖𝙩𝙞𝙣𝙜𝙨 𝙒𝙞𝙩𝙝 𝙈𝙪𝙡𝙩𝙞𝙥𝙡𝙚 𝙈𝙖𝙞𝙡𝙨 𝙏𝙤 𝙂𝙞𝙩𝙝𝙪𝙗**
-
-- ⚡ 𝗙𝘂𝗻 𝗙𝗮𝗰𝘁:- **𝗕𝗼𝗿𝗶𝗻𝗴 𝗧𝗼 𝗟𝗼𝗴𝗶𝗻,𝗟𝗶𝗸𝗲,𝗖𝗼𝗺𝗺𝗲𝗻𝘁𝘀 𝗜𝗻 𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮 𝗔𝗽𝗽𝘀 𝘀𝗼 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗲𝗱..**
 
 # 🌐Socials
 
@@ -47,9 +43,28 @@
 # Donate If My Projects Helps You
 [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](yashwanth6675@okhdfcbank)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashu1wwww&show_icons=true&locale=en&layout=compact" alt="yashu1wwww" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashu1wwww&show_icons=true&locale=en" alt="yashu1wwww" /></p>
+## **GitHub Trophies :-**
+<!-- https://github.com/ryo-ma/github-profile-trophy -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashu1wwww&" alt="yashu1wwww" /></p>
+<p align="center">
+<a href="https://github.com/yashu1wwww"><img src="https://github-profile-trophy.vercel.app/?username=yashu1wwww&rank=SSS,SS,S,A,AA,AAA,SECRET,B,C&row=1&theme=flat&no-frame=true" alt="Jiganesh"/></a>
+</p>
+
+
+<p align="center">
+<a href="https://github.com/yashu1wwww" title="Redirect's to yashu1wwww's Github">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashu1wwww&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
+  
+
+<a href="https://github.com/yashu1wwww">
+<img width="49%" title="Redirect's to yashu1wwww Github" src="https://github-readme-streak-stats.herokuapp.com/?user=yashu1wwww&theme=dark&theme=black-ice&stroke=0000" /></a>
+
+
+<a href ="https://github.com/Jiganesh" title="Redirect's to yashu1wwww Github">
+<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashu1wwww&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE"/></a>
+
+
+
+
 
