@@ -13,7 +13,7 @@
 <p align="center"> <img src="https://img.shields.io/github/followers/yashu1wwww?style=flat&label=FOLLOWERS" alt="yashu1wwww"/>
   
 # Ask Me About:- Bots🤖
-# About Me:- May Be Any One Done These But I Am Was The 1st Person To Upload Bookmyshow Auto Ratings With Multiple Mails
+# About Me:- May Be Any One Done These But I Am Was The 1st Person To Upload Bookmyshow Auto Ratings With Multiple Mails To Github
 # ⚡Fun Fact:- Boring To Login,Likes & Comments In Social Media Apps So Automated
 
 
