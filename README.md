@@ -23,13 +23,12 @@
 
 - ⚡ **𝗙𝘂𝗻 𝗙𝗮𝗰𝘁**:- **𝗕𝗼𝗿𝗶𝗻𝗴 𝗧𝗼 𝗟𝗼𝗴𝗶𝗻,𝗟𝗶𝗸𝗲,𝗖𝗼𝗺𝗺𝗲𝗻𝘁𝘀 𝗜𝗻 𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮 𝗔𝗽𝗽𝘀 𝘀𝗼 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗲𝗱..**
 
+
+
 # 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ](https://www.linkedin.com/in/yashawanth-r-750b7918b/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Botter_11)
-
-
-
 
 
 
@@ -42,6 +41,11 @@
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashu1wwww&show_icons=true&locale=en&layout=compact" alt="yashu1wwww" /></p>
 
