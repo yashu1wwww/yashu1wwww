@@ -7,10 +7,10 @@
 <h3 align="center">𝘼 𝙋𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝘽𝙤𝙩 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧🤖</h3>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yashu1wwww&label=PROFILE VIEWS  &color=red&style=flat"/> </p> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yashu1wwww&label=PROFILE VIEWS  &color=red&style=flat" alt="yashu1wwww"/>
 
 
-<p align="center"> <img src="https://img.shields.io/github/followers/yashu1wwww?style=flat&label=FOLLOWERS"/> </p>
+<p align="center"> <img src="https://img.shields.io/github/followers/yashu1wwww?style=flat&label=FOLLOWERS" alt="yashu1wwww"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashu1wwww" alt="yashu1wwww" /></a> </p>
 
@@ -22,9 +22,14 @@
 - ⚡ 𝗙𝘂𝗻 𝗙𝗮𝗰𝘁:- **𝗕𝗼𝗿𝗶𝗻𝗴 𝗧𝗼 𝗟𝗼𝗴𝗶𝗻,𝗟𝗶𝗸𝗲,𝗖𝗼𝗺𝗺𝗲𝗻𝘁𝘀 𝗜𝗻 𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮 𝗔𝗽𝗽𝘀 𝘀𝗼 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗲𝗱..**
 
 # 🌐Socials
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yashu6675)
+
+<a href="mailto:yakannaohoh@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Botter_11)
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yashu6675)
 
 
 # 💻Tech Stack
