@@ -12,6 +12,13 @@
 
 <p align="center"> <img src="https://img.shields.io/github/followers/yashu1wwww?style=flat&label=FOLLOWERS" alt="yashu1wwww"/>
   
+<p align="center">
+  <a href="https://github.com/DarkBear0121">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Bot+Creator;Good%20Analyzer;Specialized%20In%20Python%20with%20Selenium%20Good%20Sense%20Of%20Humour;Always%20Learning%20New%20Things&center=true&width=500&height=50">
+  </a>
+</p>
+<img src="./image/1.gif"  alt="Awesome Badge" width="100%" height="450px"/>
+  
 # Ask Me About:- Bots🤖
 # About Me:- May Be Any One Done These But I Am Was The 1st Person To Upload Bookmyshow Auto Ratings With Multiple Mails To Github
 # ⚡Fun Fact:- Boring To Login,Likes & Comments In Social Media Apps So Automated💻
