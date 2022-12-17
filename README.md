@@ -12,7 +12,7 @@
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yashu1wwww&label=PROFILE VIEWS  &color=blue&style=flat" alt="yashu1wwww"/>
-  
+
 - 𝘼𝙨𝙠 𝙈𝙚 𝘼𝙗𝙤𝙪𝙩:- Bots🤖
 - 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚:- May Be Any One Done These But I Am Was The 1st Person To Upload Bookmyshow Auto Ratings With Multiple Mails To Github
 - ⚡𝙁𝙪𝙣 𝙁𝙖𝙘𝙩:- Boring To Login,Likes & Comments In Social Media Apps So Automated💻
