@@ -13,7 +13,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yashu1wwww&label=PROFILE VIEWS  &color=blue&style=flat" alt="yashu1wwww"/>
   
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCe7PYhxkGodvVyhC5DFQRBg?style=for-the-badge">
+
   
 
 - 𝘼𝙨𝙠 𝙈𝙚 𝘼𝙗𝙤𝙪𝙩:- Bots🤖
