@@ -13,7 +13,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yashu1wwww&label=PROFILE VIEWS  &color=blue&style=flat" alt="yashu1wwww"/>
   
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+[<p align="center"> ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ](https://www.youtube.com/@darshantrends5040)
 <p align="center">  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCyDKApmpEVmESSue7v3qy3g?style=for-the-badge">
   
