@@ -8,16 +8,14 @@
 ![MasterHead](https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966)
 
 <h1 align="center">Hi 👋 I'm Yashu_krish11</h1>
-<h3 align="center">𝘼 𝙋𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝘽𝙤𝙩 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧🤖</h3>
+<h2 align="center">𝘼 𝙋𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝘽𝙤𝙩 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧🤖</h3>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yashu1wwww&label=PROFILE VIEWS  &color=blue&style=flat" alt="yashu1wwww"/>
   
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@darshantrends5040)
-
- <p align="center"> <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white")](https://www.youtube.com/@darshantrends5040)
+[<p align="center"> ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@darshantrends5040)<p align="center">
+<p align="center">  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCyDKApmpEVmESSue7v3qy3g?style=for-the-badge">
   
-
 - 𝘼𝙨𝙠 𝙈𝙚 𝘼𝙗𝙤𝙪𝙩:- Bots🤖
 - 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚:- May Be Any One Done These But I Am Was The 1st Person To Upload Bookmyshow Auto Ratings With Multiple Mails To Github
 - ⚡𝙁𝙪𝙣 𝙁𝙖𝙘𝙩:- Boring To Login,Likes & Comments In Social Media Apps So Automated💻
