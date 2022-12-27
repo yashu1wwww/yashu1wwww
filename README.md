@@ -4,7 +4,15 @@
   </a>
 </p>
 <img src="./image/1.gif"  alt="Awesome Badge" width="100%" height="450px"/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yashu1wwww&label=PROFILE VIEWS  &color=blue&style=flat" alt="yashu1wwww"/>
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=yashu1wwww&style=for-the-badge">
+</a>
+
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/yashu1wwww/github-profile-views-counter
+
+![](https://hit.yhype.me/github/profile?user_id=1849174)
+
   
 <p align="center"> <img src="https://user-images.githubusercontent.com/5232616/59125272-a90d0780-8916-11e9-9ef7-3c0c12205a71.gif"
 
@@ -16,7 +24,6 @@
 - 𝘼𝙨𝙠 𝙈𝙚 𝘼𝙗𝙤𝙪𝙩:- Bots🤖
 - 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚:- May Be Any One Done These But I Am Was The 1st Person To Upload Bookmyshow Auto Ratings With Multiple Mails To Github
 - ⚡𝙁𝙪𝙣 𝙁𝙖𝙘𝙩:- Boring To Login,Likes & Comments In Social Media Apps So Automated💻
-
 
 # 🌐Contact:-
 
