@@ -4,6 +4,7 @@
   </a>
 </p>
 <img src="./image/1.gif"  alt="Awesome Badge" width="100%" height="450px"/>
+<p align="center">
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=yashu1wwww&style=for-the-badge">
 </a>
