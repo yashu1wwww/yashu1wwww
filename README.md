@@ -14,7 +14,7 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=1849174)
 
-<p align="center"> <img src="https://i.stack.imgur.com/UMSgb.gif"
+<p align="center"> <img src="https://user-images.githubusercontent.com/5232616/59125272-a90d0780-8916-11e9-9ef7-3c0c12205a71.gif"
 
 ![MasterHead](https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966)   
  
