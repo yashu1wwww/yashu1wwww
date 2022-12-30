@@ -19,8 +19,7 @@
 <h2 align="center">𝘼 𝙋𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝘽𝙤𝙩 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧🤖</h3>
 
 - 𝘼𝙨𝙠 𝙈𝙚 𝘼𝙗𝙤𝙪𝙩:- Bots🤖
-- 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚:- May Be Any One Done These But I Am Was The 1st Person To Upload Bookmyshow Auto Ratings With Multiple Mails To Github
-
+- 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚:- First Person To Upload BookMyShow Auto Ratings & 500+ Non Stop YouTube Auto Comments Using 10 Account In Localhost To GitHub 
 
 # 🌐Contact:-
 
