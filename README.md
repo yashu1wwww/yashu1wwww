@@ -5,13 +5,16 @@
 </p>
 <img src="./image/1.gif"  alt="Awesome Badge" width="100%" height="450px"/>
 <p align="center">
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
+
+<a href="https://github.com/yashu1wwww/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=yashu1wwww&style=for-the-badge">
 </a>
 
 [Ÿ HŸPE]: https://yhype.me
 [GitHub Profile Views Counter]: https://github.com/yashu1wwww/github-profile-views-counter
+
 ![](https://hit.yhype.me/github/profile?user_id=1849174)
+
 
 <img src="https://cdn.discordapp.com/attachments/975036883958636557/975080429197590618/tumblr_00fca58e088e62fee1268fba5e7196d0_ab2ffa4a_500.webp" width="800">
   
