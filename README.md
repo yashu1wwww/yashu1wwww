@@ -14,6 +14,12 @@
 [GitHub Profile Views Counter]: https://github.com/yashu1wwww/github-profile-views-counter
 
 ![](https://hit.yhype.me/github/profile?user_id=1849174)
+  
+![](https://img.shields.io/badge/Cyber%20Security-Analyzer%20%2F%20Memer%20%2F%20Bot%20Developer%20%2F%20Time%20Traveller-white)
+ <!--
+![](https://img.shields.io/badge/Twitch-Persembe%20--%20Pazar%20Gunleri%20Saat%2020.00-purple)
+![](https://img.shields.io/badge/Youtube-Carsamba%20--%20Cumartesi%20Saat%2017.00-red)
+--> 
 
 <img src="https://cdn.discordapp.com/attachments/975036883958636557/975080429197590618/tumblr_00fca58e088e62fee1268fba5e7196d0_ab2ffa4a_500.webp" width="800">
   
