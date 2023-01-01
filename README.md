@@ -15,10 +15,6 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=1849174)
 
-<a href="https://www.twitter.com/yashu_krish11" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/yashu_krish11?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
-/></a><a href="https://www.github.com/yashu1wwww" target="_blank" rel="noreferrer">
-                                                                                        
 <img src="https://cdn.discordapp.com/attachments/975036883958636557/975080429197590618/tumblr_00fca58e088e62fee1268fba5e7196d0_ab2ffa4a_500.webp" width="800">
   
 ![MasterHead](https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966)   
@@ -27,7 +23,8 @@ src="https://img.shields.io/twitter/follow/yashu_krish11?logo=twitter&style=for-
 <h2 align="center">𝘼 𝙋𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝘽𝙤𝙩 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧🤖</h3>
 
 - 𝘼𝙨𝙠 𝙈𝙚 𝘼𝙗𝙤𝙪𝙩:- Bots🤖
-- 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚:- First Person To Upload BookMyShow Auto Ratings & 500+ Non Stop YouTube Auto Comments Using 10 Account In Localhost To GitHub 
+- 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚:-𝙁𝙞𝙧𝙨𝙩 𝙋𝙚𝙧𝙨𝙤𝙣 𝙏𝙤 𝙐𝙥𝙡𝙤𝙖𝙙 𝘽𝙤𝙤𝙠𝙈𝙮𝙎𝙝𝙤𝙬 𝘼𝙪𝙩𝙤 𝙍𝙖𝙩𝙞𝙣𝙜𝙨 & 500+ 𝙉𝙤𝙣 𝙎𝙩𝙤𝙥 𝙔𝙤𝙪𝙏𝙪𝙗𝙚 𝘼𝙪𝙩𝙤 𝘾𝙤𝙢𝙢𝙚𝙣𝙩𝙨 𝙐𝙨𝙞𝙣𝙜 10 𝘼𝙘𝙘𝙤𝙪𝙣𝙩 𝙄𝙣 𝙇𝙤𝙘𝙖𝙡𝙝𝙤𝙨𝙩 𝙏𝙤 𝙂𝙞𝙩𝙃𝙪𝙗 
+
 
 # 🌐Contact:-
 
