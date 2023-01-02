@@ -15,6 +15,11 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=1849174)
   
+![](https://img.shields.io/badge/Cyber%20Security-Analyzer%20%2F%20Memer%20%2F%20Bot%20Developer%20%2F%20Time%20Traveller-white)
+<!--
+![](https://img.shields.io/badge/Twitch-Persembe%20--%20Pazar%20Gunleri%20Saat%2020.00-purple)
+![](https://img.shields.io/badge/Youtube-Carsamba%20--%20Cumartesi%20Saat%2017.00-red)
+--> 
 <img src="https://cdn.discordapp.com/attachments/975036883958636557/975080429197590618/tumblr_00fca58e088e62fee1268fba5e7196d0_ab2ffa4a_500.webp" width="800">
   
 ![MasterHead](https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966)   
