@@ -10,6 +10,12 @@
     <img src="https://komarev.com/ghpvc/?username=yashu1wwww&style=for-the-badge">
 </a>
 
+ <p align="center"> 
+ Visitor count<br>
+ <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
+
+
 [Ÿ HŸPE]: https://yhype.me
 [GitHub Profile Views Counter]: https://github.com/yashu1wwww/github-profile-views-counter
 
