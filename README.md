@@ -36,13 +36,17 @@
  <a href="mailto:yakannaohoh@gmail.com">
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
  </a>
-   
-  <a href="https://twitter.com/Yashu_Krish11">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+
+ <a href="https://instagram.com/work_it_lit?igshid=Yzg5MTU1MDY=">
+ <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+ </a>
+ 
+ <a href="https://twitter.com/Yashu_Krish11">
+ <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
  </a>
   
-   <a href="https://t.me/yashu6675">
-   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+ <a href="https://t.me/yashu6675">
+ <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
  </a>   
  
 # 💻Tech Stack
