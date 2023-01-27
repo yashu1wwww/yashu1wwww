@@ -15,6 +15,9 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=1849174)
   
+<h2 align="center"><img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="80"></h2>
+
+  
 ![](https://img.shields.io/badge/Cyber%20Security-Analyzer%20%2F%20Memer%20%2F%20Bot%20Developer%20-white)
 <!--
 ![](https://img.shields.io/badge/Twitch-Persembe%20--%20Pazar%20Gunleri%20Saat%2020.00-purple)
