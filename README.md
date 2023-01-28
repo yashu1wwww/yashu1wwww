@@ -66,7 +66,7 @@
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
 <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
 <img src="https://media2.giphy.com/media/KAq5w47R9rmTuvWOWa/200.webp?cid=ecf05e475ipyfpp0xpkay5wl3ogkv4fk1jhuxx1gumf6i82b&rid=200.webp&ct=g" width="50">
-<img src="https://media2.giphy.com/media/l3vRfNA1p0rvhMSvS/100.webp?cid=ecf05e477rqu5ydt6hkbcsgedhmyyget6mld1kqu1l9f4sbr&rid=100.webp&ct=g" width="100">  
+<img src="https://media2.giphy.com/media/l3vRfNA1p0rvhMSvS/100.webp?cid=ecf05e477rqu5ydt6hkbcsgedhmyyget6mld1kqu1l9f4sbr&rid=100.webp&ct=g" width="120">  
   
   
 # Donate If My Projects Helps You
