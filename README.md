@@ -14,9 +14,7 @@
 [GitHub Profile Views Counter]: https://github.com/yashu1wwww/github-profile-views-counter
 
 ![](https://hit.yhype.me/github/profile?user_id=1849174)
-<h2 align="center"><img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="80"></h2>
 
-  
 ![](https://img.shields.io/badge/Cyber%20Security-Analyzer%20%2F%20Memer%20%2F%20Bot%20Developer%20-white)
 <!--
 ![](https://img.shields.io/badge/Twitch-Persembe%20--%20Pazar%20Gunleri%20Saat%2020.00-purple)
@@ -28,16 +26,19 @@
 <h1 align="center">Hi 👋 I'm Yashu_krish11</h1>
 <h2 align="center">𝘼 𝙋𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝘽𝙤𝙩 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧🤖</h3>
 
-- 𝘼𝙨𝙠 𝙈𝙚 𝘼𝙗𝙤𝙪𝙩:- Bots🤖
+# 💫 About Me :
+- 😄 Pronouns: He/His
+- 💻 𝐌𝐚𝐝𝐞 𝘽𝙤𝙤𝙠𝙈𝙮𝙎𝙝𝙤𝙬 𝘼𝙪𝙩𝙤 𝙍𝙖𝙩𝙞𝙣𝙜𝙨  𝐔𝐬𝐢𝐧𝐠 𝐏𝐲𝐭𝐡𝐨𝐧 𝐖𝐢𝐭𝐡 𝐒𝐞𝐥𝐞𝐧𝐢𝐮𝐦
+- 💻  𝐌𝐚𝐝𝐞 500+ 𝙉𝙤𝙣 𝙎𝙩𝙤𝙥 𝙔𝙤𝙪𝙏𝙪𝙗𝙚 𝘼𝙪𝙩𝙤 𝘾𝙤𝙢𝙢𝙚𝙣𝙩𝙨 𝙐𝙨𝙞𝙣𝙜 10 𝘼𝙘𝙘𝙤𝙪𝙣𝙩 𝙄𝙣 𝙇𝙤𝙘𝙖𝙡𝙝𝙤𝙨𝙩
+- 💻 𝐌𝐚𝐝𝐞 5000+ 𝐍𝐨𝐧 𝐒𝐭𝐨𝐩 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 𝐀𝐮𝐭𝐨 𝐂𝐨𝐦𝐦𝐞𝐧𝐭𝐬 𝐔𝐬𝐢𝐧𝐠 𝐏𝐲𝐭𝐡𝐨𝐧 𝐖𝐢𝐭𝐡 𝐒𝐞𝐥𝐞𝐧𝐢𝐮𝐦 𝐈𝐧 𝐋𝐨𝐜𝐚𝐥𝐡𝐨𝐬𝐭 𝐖𝐡𝐢𝐜𝐡 𝐂𝐨𝐦𝐦𝐞𝐧𝐭 𝐋𝐢𝐤𝐞 𝐀 𝐇𝐮𝐦𝐚𝐧
+- 🔭 I’m currently building My personal Projects.
+- 🌱 I’m currently learning more about Front End and Cloud Computing.
+- 🤔 I’m looking for help with bots.
+- 💬 Ask me about Bots.
 
-- 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚:-𝐌𝐚𝐝𝐞 𝘽𝙤𝙤𝙠𝙈𝙮𝙎𝙝𝙤𝙬 𝘼𝙪𝙩𝙤 𝙍𝙖𝙩𝙞𝙣𝙜𝙨  𝐔𝐬𝐢𝐧𝐠 𝐏𝐲𝐭𝐡𝐨𝐧 𝐖𝐢𝐭𝐡 𝐒𝐞𝐥𝐞𝐧𝐢𝐮𝐦.
-
-- 𝐌𝐚𝐝𝐞 500+ 𝙉𝙤𝙣 𝙎𝙩𝙤𝙥 𝙔𝙤𝙪𝙏𝙪𝙗𝙚 𝘼𝙪𝙩𝙤 𝘾𝙤𝙢𝙢𝙚𝙣𝙩𝙨 𝙐𝙨𝙞𝙣𝙜 10 𝘼𝙘𝙘𝙤𝙪𝙣𝙩 𝙄𝙣 𝙇𝙤𝙘𝙖𝙡𝙝𝙤𝙨𝙩.
-
-- 𝐌𝐚𝐝𝐞 5000+ 𝐍𝐨𝐧 𝐒𝐭𝐨𝐩 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 𝐀𝐮𝐭𝐨 𝐂𝐨𝐦𝐦𝐞𝐧𝐭𝐬 𝐔𝐬𝐢𝐧𝐠 𝐏𝐲𝐭𝐡𝐨𝐧 𝐖𝐢𝐭𝐡 𝐒𝐞𝐥𝐞𝐧𝐢𝐮𝐦 𝐈𝐧 𝐋𝐨𝐜𝐚𝐥𝐡𝐨𝐬𝐭 𝐖𝐡𝐢𝐜𝐡 𝐂𝐨𝐦𝐦𝐞𝐧𝐭 𝐋𝐢𝐤𝐞 𝐀 𝐇𝐮𝐦𝐚𝐧.
 
 
-# 🌐Contact:-
+# 🌐Contact:
 
  <a href="mailto:yakannaohoh@gmail.com">
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -55,18 +56,17 @@
  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
  </a>   
  
-# 💻Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
+<div>
+<h3> 💻 Languages and Tools: </h3>
+<p
+ 
+<img src="https://i.imgur.com/4KZ6XRE.gif" width="50">
+<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
+<img src="https://media2.giphy.com/media/KAq5w47R9rmTuvWOWa/200.webp?cid=ecf05e475ipyfpp0xpkay5wl3ogkv4fk1jhuxx1gumf6i82b&rid=200.webp&ct=g" width="50">
+<img src="https://media2.giphy.com/media/l3vRfNA1p0rvhMSvS/100.webp?cid=ecf05e477rqu5ydt6hkbcsgedhmyyget6mld1kqu1l9f4sbr&rid=100.webp&ct=g" width="100">  
+  
+  
 # Donate If My Projects Helps You
 [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](yashwanth6675@okhdfcbank)
 
