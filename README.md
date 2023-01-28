@@ -61,7 +61,7 @@
 <p
  
 <img src="https://media.licdn.com/dms/image/C5612AQHmfnLiLkBIVw/article-cover_image-shrink_423_752/0/1522791807373?e=1680134400&v=beta&t=_RCfHHCQu4EfnRA5SYlnxK1Zg6-WR3FfWZEa2NT7NcQ" width="60">   
-<img src="https://media.licdn.com/dms/image/C5612AQHmfnLiLkBIVw/article-cover_image-shrink_423_752/0/1522791807373?e=1680134400&v=beta&t=_RCfHHCQu4EfnRA5SYlnxK1Zg6-WR3FfWZEa2NT7NcQ" width="50">   
+<img src="https://media.licdn.com/dms/image/C5612AQHmfnLiLkBIVw/article-cover_image-shrink_423_752/0/1522791807373?e=1680134400&v=beta&t=_RCfHHCQu4EfnRA5SYlnxK1Zg6-WR3FfWZEa2NT7NcQ" width="80">   
 <img src="https://i.imgur.com/4KZ6XRE.gif" width="50">
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
 <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
