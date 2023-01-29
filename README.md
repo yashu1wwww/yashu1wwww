@@ -1,11 +1,12 @@
 <p align="center">
-  <a href="https://github.com/DarkBear0121">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=WELCOME+TO+BOT+WORLD!;Python%20With%20Selenium;Cloud%20Computing%20Currently%20Working;Good%20Sense%20Of%20Humour;Always%20Learning%20New%20Things&center=true&width=500&height=50">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F83B18EB&width=435&lines=WELCOME+TO+BOT+WORLD!;Always+learning+new+things;Cloud+Computing+currently+learning;Good+sense+of+humour" alt="Typing SVG">
 </a>
-</p>
+</p>  
+  
 <img src="./image/1.gif"  alt="Awesome Badge" width="100%" height="450px"/>
 <p align="center">
-
+  
 <a href="https://github.com/yashu1wwww/github-profile-views-counter">
 <img src="https://komarev.com/ghpvc/?username=yashu1wwww&style=for-the-badge">
 </a>
@@ -96,6 +97,10 @@
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=yashu1wwww&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
  </div>
+  
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
+
   
 ### ✍️ Random Dev Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
