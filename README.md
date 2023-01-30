@@ -47,8 +47,8 @@
 
 # 🌐Contact:
 
- <a href="mailto:yakannaohoh@gmail.com">
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:yakannaohoh@gmail.com">
+ <img src="https://cdn.dribbble.com/users/65451/screenshots/2142189/shake.gif" width="80">
  </a>
 
  <a href="https://instagram.com/work_it_lit?igshid=Yzg5MTU1MDY=">
