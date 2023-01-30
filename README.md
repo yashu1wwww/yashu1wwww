@@ -48,7 +48,7 @@
 # 🌐Contact:
 
   <a href="mailto:yakannaohoh@gmail.com">
- <img src="https://cdn.dribbble.com/users/2113992/screenshots/14510264/gmail_animation.gif" width="100">
+ <img src="https://cdn.dribbble.com/users/2113992/screenshots/14510264/gmail_animation.gif" width="120">
  </a>
 
  <a href="https://instagram.com/work_it_lit?igshid=Yzg5MTU1MDY=">
@@ -60,7 +60,7 @@
  </a>
   
  <a href="https://t.me/yashu6675">
- <img src="https://moein.video/wp-content/uploads/2022/12/Telegram-Logo-GIF-Telegram-Icon-GIF-Royalty-Free-Animated-Icon-GIF-350px-after-effects-project-2.gif" width="70">
+ <img src="https://moein.video/wp-content/uploads/2022/12/Telegram-Logo-GIF-Telegram-Icon-GIF-Royalty-Free-Animated-Icon-GIF-350px-after-effects-project-2.gif" width="73">
  </a>   
  
 <div>
