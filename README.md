@@ -1,8 +1,12 @@
 <p align="center">
-  <a href="https://github.com/DarkBear0121">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=WELCOME+TO+BOT+WORLD!;Python%20With%20Selenium;Cloud%20Computing%20Currently%20Working;Good%20Sense%20Of%20Humour;Always%20Learning%20New%20Things&center=true&width=500&height=50">
-</a>
+  <div align="center">
+    <img
+        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=WELCOME+TO+BOT+WORLD!+;Python+With+Selenium+;Good+Sense+Of+Humour+;Always+learning+New+Things"
+            alt="Typing SVG"
+        />
+    </a>
 </p>
+</div>
 
 <img src="./image/1.gif"  alt="Awesome Badge" width="100%" height="450px"/>
 <p align="center">
