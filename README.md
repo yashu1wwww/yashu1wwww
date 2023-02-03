@@ -88,9 +88,8 @@
 <!--🏆TROPHYGIF-->
 <p align="center">
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
-  
-## 💳 Github Profile Summary Card
-<p align="center">
+
+  <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashu1wwww&theme=vue"/>
 </p>
   
