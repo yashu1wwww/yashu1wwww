@@ -12,7 +12,7 @@
 </p>
 </div>
 
-<img src="./image/1.gif"  alt="Awesome Badge" width="100%" height="450px"/>
+<img src="./image/1.gif"  alt="Awesome Badge" width="100%" height="350px"/>
 <p align="center">
   
 <a href="https://github.com/yashu1wwww/github-profile-views-counter">
@@ -61,7 +61,7 @@ Connect With Me:
 </h3>
 <p align="center" style='margin: 16px 4px 8px;'>
      </a>
-    <a href="mailto:uapathrabe@gmail.com" target="blank" rel="noreferrer">
+    <a href="mailto:yakannaohoh@gmail.com" target="blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:uapathrabe@gmail.com" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
     <a href="https://twitter.com/learn_earns" target="blank" rel="noreferrer">
