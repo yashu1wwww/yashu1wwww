@@ -1,3 +1,7 @@
+<h3 align="center">
+
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header)
+
 <p align="center">
   <div align="center">
     <img
@@ -115,3 +119,7 @@ Connect With Me:
   
 ### ✍️ Random Dev Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+  
+  <h3 align="center">
+
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header)
