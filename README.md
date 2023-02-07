@@ -116,10 +116,7 @@ Connect With Me:
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
 
-  
-### ✍️ Random Dev Quotes
+ ### ✍️ Random Dev Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
   
-  <h3 align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header)
