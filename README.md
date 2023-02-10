@@ -30,7 +30,7 @@
   <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Developer.gif" width="400px">
 </p>
 
-<img align="center" alt="Coding" width="397" src="https://camo.githubusercontent.com/fccc48b6169ceac0aefe692ba3b97edd8ddcf66284362fec64c4117bbfb1c1ad/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4356744e6538346868594639752f67697068792e676966" alt="gif">
+<img align="center" alt="Coding" width="397" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" alt="gif">
 
 <h1 align="center">Hi 👋 I'm Yashu_krish11</h1>
 <h2 align="center">𝘼 𝙋𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝘽𝙤𝙩 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧🤖</h3>
