@@ -103,17 +103,8 @@ Connect With Me:
 <p align="center">
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
 
-  <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashu1wwww&theme=vue"/>
-</p>
-  
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yashu1wwww&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
- </div>
+[![Yashu_Krish's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yashu1wwww&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/yashu1wwww/github-readme-activity-graph)
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yashu1wwww&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
- </div>
   
  ### ✍️ Random Dev Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
