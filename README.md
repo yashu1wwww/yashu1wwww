@@ -12,6 +12,8 @@
 </p>
 </div>
 
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="center" width="200" height="auto" />
+
 <img src="./image/1.gif"  alt="Awesome Badge" width="100%" height="350px"/>
 <p align="center">
   
@@ -27,9 +29,6 @@
   <p align="center">
   <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Developer.gif" width="400px">
 </p>
-
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="center" width="200" height="auto" />
-
 
 <img align="center" alt="Coding" width="397" src="https://camo.githubusercontent.com/fccc48b6169ceac0aefe692ba3b97edd8ddcf66284362fec64c4117bbfb1c1ad/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4356744e6538346868594639752f67697068792e676966" alt="gif">
 
