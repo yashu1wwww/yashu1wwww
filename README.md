@@ -50,9 +50,9 @@
 
 - 💻 𝐌𝐚𝐝𝐞 5000+ 𝐍𝐨𝐧 𝐒𝐭𝐨𝐩 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 𝐀𝐮𝐭𝐨 𝐂𝐨𝐦𝐦𝐞𝐧𝐭𝐬 𝐔𝐬𝐢𝐧𝐠 𝐏𝐲𝐭𝐡𝐨𝐧 𝐖𝐢𝐭𝐡 𝐒𝐞𝐥𝐞𝐧𝐢𝐮𝐦 𝐈𝐧 𝐋𝐨𝐜𝐚𝐥𝐡𝐨𝐬𝐭 𝐖𝐡𝐢𝐜𝐡 𝐂𝐨𝐦𝐦𝐞𝐧𝐭 𝐋𝐢𝐤𝐞 𝐀 𝐇𝐮𝐦𝐚𝐧.
 
-- 🔭 I’m currently building My personal Projects.
+-💻 Aws Certified Cloud Practional✔️
 
-- 🌱 I’m currently learning more about Front End and Cloud Computing.
+- 🌱 I’m currently learning more about Front End.
 
 - 🤔 I’m looking for help with bots.
 
