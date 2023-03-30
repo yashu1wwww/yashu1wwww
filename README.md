@@ -79,13 +79,13 @@ Connect With Me:
     </a>
     
 <h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
-Skills:
+Languages & Tools:
 </h3>
 <p align="center" style='margin: 16px 4px 8px;'>
   
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,aws,selenium,vscode,dotnet,androidstudio,html,bots,docker,eclipse,powershell,wordpress," />
+    <img src="https://skillicons.dev/icons?i=python,aws,selenium,vscode,dotnet,androidstudio,html,bots,docker,eclipse,powershell,linux,wordpress,git,bash," />
   </a>
 </p>  
  
