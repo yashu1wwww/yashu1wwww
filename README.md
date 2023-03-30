@@ -77,23 +77,18 @@ Connect With Me:
    <a href="https://instagram.com/work_it_lit?igshid=Yzg5MTU1MDY=" target="blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://instagram.com/utkarsh_pathrabe" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
-    <a href="https://www.youtube.com/@yashu_pro_max" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="https://www.youtube.com/c/utkarshpathrabe" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-
-<div>
-<h3> 💻 Languages and Tools: </h3>
-<p
+    
+<h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
+Skills:
+</h3>
+<p align="center" style='margin: 16px 4px 8px;'>
+  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,aws,vscode,androidstudio,html,bots,docker,eclipse,powershell,selenium,wordpress,ubuntu," />
+  </a>
+</p>  
  
-<img src="https://media.licdn.com/dms/image/C5612AQHmfnLiLkBIVw/article-cover_image-shrink_423_752/0/1522791807373?e=1680134400&v=beta&t=_RCfHHCQu4EfnRA5SYlnxK1Zg6-WR3FfWZEa2NT7NcQ" width="60">   
-<img src="https://media.licdn.com/dms/image/C5612AQHmfnLiLkBIVw/article-cover_image-shrink_423_752/0/1522791807373?e=1680134400&v=beta&t=_RCfHHCQu4EfnRA5SYlnxK1Zg6-WR3FfWZEa2NT7NcQ" width="80">   
-<img src="https://i.imgur.com/4KZ6XRE.gif" width="50">
-<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
-<img src="https://media2.giphy.com/media/KAq5w47R9rmTuvWOWa/200.webp?cid=ecf05e475ipyfpp0xpkay5wl3ogkv4fk1jhuxx1gumf6i82b&rid=200.webp&ct=g" width="50">
-<img src="https://media2.giphy.com/media/l3vRfNA1p0rvhMSvS/100.webp?cid=ecf05e477rqu5ydt6hkbcsgedhmyyget6mld1kqu1l9f4sbr&rid=100.webp&ct=g" width="120">  
-  
-  
 # Donate If My Projects Helps You
 [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](yashwanth6675@okhdfcbank)
 
