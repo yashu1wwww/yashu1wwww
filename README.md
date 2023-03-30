@@ -85,7 +85,7 @@ Skills:
   
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,aws,vscode,androidstudio,html,bots,docker,eclipse,powershell,selenium,wordpress,ubuntu," />
+    <img src="https://skillicons.dev/icons?i=python,aws,selenium,vscode,dotnet,androidstudio,html,bots,docker,eclipse,powershell,wordpress," />
   </a>
 </p>  
  
