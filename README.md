@@ -32,6 +32,14 @@
 
 <img align="center" alt="Coding" width="450" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" alt="gif">
 
+  <div class="container">
+        <h1 class="heading" style="color: blue;">Are You Liked Our Page</h1>
+		<h1 class="count">0</h1>
+        <button class="button" onclick="increaseCount()">♥</button>
+    </div>
+    
+
+
 <h1 align="center">Hi 👋 I'm Yashu_krish11</h1>
 <h2 align="center">𝘼 𝙋𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝘽𝙤𝙩 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧🤖</h3>
 
