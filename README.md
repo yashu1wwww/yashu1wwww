@@ -12,11 +12,6 @@
 </p>
 </div>
 
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="center" width="200" height="auto" />
-
-<img src="./image/1.gif"  alt="Awesome Badge" width="100%" height="350px"/>
-<p align="center">
-  
 <a href="https://github.com/yashu1wwww/github-profile-views-counter">
 <img src="https://komarev.com/ghpvc/?username=yashu1wwww&style=for-the-badge">
 </a>
