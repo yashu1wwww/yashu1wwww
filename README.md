@@ -26,9 +26,10 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=1849174)
 
-  <p align="center">
-  <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Developer.gif" width="400px">
+ <img align="center">
+  <img src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" width="600px">
 </p>
+
 
 <img align="center" alt="Coding" width="450" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" alt="gif">
 
