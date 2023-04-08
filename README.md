@@ -49,7 +49,7 @@
 
 - 🌱 I am currently learning more about front-end development.
 
-- 🤔 I’m looking for help with bots.
+- 💁‍♂️ I’m looking for help with bots.
 
 - 💬 Ask me about Bots.
 
@@ -74,7 +74,6 @@ Connect With Me:
     </a>
    <a href="https://t.me/yashu6675" target="blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="https://instagram.com/utkarsh_pathrabe" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
     
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
     
