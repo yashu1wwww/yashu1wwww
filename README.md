@@ -32,11 +32,22 @@
 
 <img align="center" alt="Coding" width="450" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" alt="gif">
 
-  <div class="container">
+</head>
+<body>
+    <div class="container">
         <h1 class="heading" style="color: blue;">Are You Liked Our Page</h1>
-		<h1 class="count">0</h1>
+        <h1 class="count">0</h1>
         <button class="button" onclick="increaseCount()">♥</button>
     </div>
+    <script>
+        let count = 0;
+        function increaseCount() {
+            count++;
+            document.querySelector('.count').textContent = count;
+        }
+    </script>
+</body>
+ 
     
 
 
