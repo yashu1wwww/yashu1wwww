@@ -2,6 +2,10 @@
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header)
 
+<div style="text-align:center;">
+  <img src="https://raw.githubusercontent.com/AyoubMs/AyoubMS/main/Banner.gif">
+</div>
+
 <p align="center">
   <div align="center">
     <img
