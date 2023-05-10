@@ -96,7 +96,7 @@ Languages & Tools:
   
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,aws,selenium,vscode,androidstudio,html,css,bots,docker,eclipse,powershell,linux,wordpress,git,discord,powershell,visualstudio,stackoverflow," />
+    <img src="https://skillicons.dev/icons?i=python,aws,java,selenium,vscode,androidstudio,html,css,bots,docker,eclipse,powershell,linux,wordpress,git,discord,powershell,visualstudio,stackoverflow," />
   </a>
 </p>  
  
