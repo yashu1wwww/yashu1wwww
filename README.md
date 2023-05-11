@@ -63,7 +63,7 @@
 
 - 🌱 I am currently learning more about front-end development.
 
-- 💁‍♂️ I’m looking for help with bots.
+- 💁‍♂️ I’m looking for help with bots & front end.
 
 - 💬 If you have any doubts about my projects, feel free to ask me.
 
