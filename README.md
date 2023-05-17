@@ -142,16 +142,8 @@ Languages & Tools:
  <a href="https://readme-jokes.vercel.app">
   <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes" style="width: 400px; height: 300px;">
 </a>
-  
-<p align="center">
-  <div align="center">
-    <img
-        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=THANKS+FOR+VISITING!+;"
-            alt="Typing SVG"
-        />
-    </a>
-</p>
-</div>
 
-### SHOW SOME ♥️ TO THE REPOSITORIES
+### <ＴＨＡＮＫＳ ＦＯＲ ＶＩＳＩＴＩＮＧ ＭＹ ＧＩＴＨＵＢ ＡＣＣＯＵＮＴ>
+
+### 𝙎𝙃𝙊𝙒 𝙎𝙊𝙈𝙀 ♥️ 𝙏𝙊 𝙏𝙃𝙀 𝙍𝙀𝙋𝙊𝙎𝙄𝙏𝙊𝙍𝙄𝙀𝙎!
 
