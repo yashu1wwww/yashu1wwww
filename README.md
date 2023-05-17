@@ -134,8 +134,10 @@ Languages & Tools:
 ### ✍️ Random Dev Jokes
 
 <p align="center">
-  <a href="https://readme-jokes.vercel.app"><img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
-</p>
+ <a href="https://readme-jokes.vercel.app">
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes" style="width: 400px; height: 300px;">
+</a>
+
 
   
 
