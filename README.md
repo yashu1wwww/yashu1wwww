@@ -101,25 +101,41 @@ Languages & Tools:
  
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Donate If My Projects Helps You
-[![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](yashwanth6675@okhdfcbank)
-
+<div align="center">
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=yashu1wwww&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yashu1wwww&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashu1wwww&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashu1wwww&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashu1wwww&theme=dark&hide_border=false)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashu1wwww&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<!--🏆TROPHYGIF-->
-<p align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
-
-[![Yashu_Krish's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yashu1wwww&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/yashu1wwww/github-readme-activity-graph)
-
+<h3 align="center" style='margin: 32px 4px 8px; font-size: 50px;'>
+<𝙂𝙧𝙖𝙥𝙝📈>
+</h3>
   
- ### ✍️ Random Dev Quotes
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+[![Yashu_Krish's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yashu1wwww&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/yashu1wwww/github-readme-activity-graph)
+  
+-------------------------------------------------------------------------------------------------------------------------------------------------------------  
+
+  <div align="center">
+
+### ✍️ Random Dev Quotes
+
+![Random Dev Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+  
+<div align="center">
+
+### ✍️ Random Dev Jokes
+
+<p align="center">
+  <a href="https://readme-jokes.vercel.app"><img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+</p>
+
   
 
