@@ -155,23 +155,3 @@ Languages & Tools:
 
 ### SHOW SOME ♥️ TO THE REPOSITORIES
 
-S        H       O       W         S        O       M        E
-H        E       A       R         T        S                 ♥️
-T                                                                     T
-O                                                                     O
-T                                                                     T
-H                                                                     H
-E                                                                     E
-R                                                                     R
-E                                                                     E
-P                                                                     P
-O                                                                     O
-S                                                                     S
-I                                                                     I
-T                                                                     T
-O                                                                     O
-R                                                                     R
-I                                                                     I
-E                                                                     E
-S                                                                     S
-
