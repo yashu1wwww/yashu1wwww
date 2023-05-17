@@ -17,7 +17,6 @@
 </div>
 
 
-
 <a href="https://github.com/yashu1wwww/github-profile-views-counter">
 <img src="https://komarev.com/ghpvc/?username=yashu1wwww&style=for-the-badge">
 </a>
@@ -106,7 +105,13 @@ Languages & Tools:
 # 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashu1wwww&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  
+  </br> 
+  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashu1wwww&theme=dark&hide_border=false)<br/>
+  
+   </br> 
+   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashu1wwww&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
@@ -137,7 +142,16 @@ Languages & Tools:
  <a href="https://readme-jokes.vercel.app">
   <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes" style="width: 400px; height: 300px;">
 </a>
-
+  
+<p align="center">
+  <div align="center">
+    <img
+        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=WELCOME+TO+MY+WORLD!+;Python+;Front+End+Projects+;Python+With+Selenium+;Good+Sense+Of+Humour🔑+;Learning+New+Things🧩+;Cyber+Security🎯"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+</div>
 
   
 
