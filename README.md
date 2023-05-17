@@ -142,8 +142,7 @@ Languages & Tools:
  <a href="https://readme-jokes.vercel.app">
   <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes" style="width: 400px; height: 300px;">
 </a>
-
-### <ＴＨＡＮＫＳ ＦＯＲ ＶＩＳＩＴＩＮＧ ＭＹ ＧＩＴＨＵＢ ＡＣＣＯＵＮＴ>
+  
 
 ### 𝙎𝙃𝙊𝙒 𝙎𝙊𝙈𝙀 ♥️ 𝙏𝙊 𝙏𝙃𝙀 𝙍𝙀𝙋𝙊𝙎𝙄𝙏𝙊𝙍𝙄𝙀𝙎!
 
