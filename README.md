@@ -144,8 +144,6 @@ Languages & Tools:
   <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes" style="width: 400px; height: 300px;">
 </a>
   
-![Alt Text](https://twitter.com/Learn_earns123/status/1660692691859169286/photo/3) 
-  
 
-### 𝙎𝙃𝙊𝙒 𝙎𝙊𝙈𝙀 ♥️ 𝙏𝙊 𝙏𝙃𝙀 𝙍𝙀𝙋𝙊𝙎𝙄𝙏𝙊𝙍𝙄𝙀𝙎!
+
 
