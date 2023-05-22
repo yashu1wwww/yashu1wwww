@@ -16,7 +16,6 @@
 </p>
 </div>
 
-
 <a href="https://github.com/yashu1wwww/github-profile-views-counter">
 <img src="https://komarev.com/ghpvc/?username=yashu1wwww&style=for-the-badge">
 </a>
@@ -144,6 +143,8 @@ Languages & Tools:
  <a href="https://readme-jokes.vercel.app">
   <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes" style="width: 400px; height: 300px;">
 </a>
+  
+![Alt Text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoJyRSbYBPpy9zCgNP0AyGmxerDWQX3VdXRbuuBOU_uJgIXYA6JViVj1pRA9zPlNGG3Xo&usqp=CAU)  
   
 
 ### 𝙎𝙃𝙊𝙒 𝙎𝙊𝙈𝙀 ♥️ 𝙏𝙊 𝙏𝙃𝙀 𝙍𝙀𝙋𝙊𝙎𝙄𝙏𝙊𝙍𝙄𝙀𝙎!
