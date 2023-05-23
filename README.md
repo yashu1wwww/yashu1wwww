@@ -110,9 +110,9 @@ Languages & Tools:
 </p>
   
 </br> 
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashu1wwww&theme=dark&hide_border=false)<br/>
-  
+<p align="center">  
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashu1wwww&theme=vue" />
+</p>
 </br> 
    
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashu1wwww&theme=light&layout=compact)](https://github.com/anuraghazra/github-readme-stats"> </p>
@@ -122,12 +122,14 @@ Languages & Tools:
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="center" style='margin: 32px 4px 8px; font-size: 50px;'>
+  
 <𝙂𝙧𝙖𝙥𝙝📈>
-</h3>
   
-[![Yashu_Krish's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yashu1wwww&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/yashu1wwww/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashu1wwww&theme=vue"/>
+</p>
   
--------------------------------------------------------------------------------------------------------------------------------------------------------------  
+-------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
   <div align="center">
 
@@ -145,6 +147,8 @@ Languages & Tools:
  <a href="https://readme-jokes.vercel.app">
   <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes" style="width: 400px; height: 300px;">
 </a>
+  
+Show some ❤️ by starring some of the repositories!
   
 ![wave](https://user-images.githubusercontent.com/65462564/225171686-93c2fd4b-ced4-4602-85e4-13deacf4af62.svg)
 
