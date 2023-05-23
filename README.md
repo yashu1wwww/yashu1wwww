@@ -58,6 +58,8 @@
 
 - 💻 𝙊𝙪𝙩 𝙤𝙛 60 𝙧𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙞𝙚𝙨, 24 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙖𝙧𝙚 𝙣𝙚𝙬.
 
+  https://shorturl.at/cwyD9
+
 - 🌱 I am currently learning more about front-end development.
 
 - 💁‍♂️ I’m looking for help with bots & front end.
