@@ -105,13 +105,15 @@ Languages & Tools:
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashu1wwww&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<p align="center">
+<img style="border-radius: 50px;" src="https://github-readme-stats.vercel.app/api?username=yashu1wwww&show_icons=true&theme=transparent">
+</p>
   
-  </br> 
+</br> 
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashu1wwww&theme=dark&hide_border=false)<br/>
   
-   </br> 
+</br> 
    
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashu1wwww&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
