@@ -1,4 +1,3 @@
-![Black Minimal Motivation Quote LinkedIn Banner](https://www.linkpicture.com/q/Black-Liquid-Minimalist-Daily-Quotes-LinkedIn-Banner.png)
 <h3 align="center">
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header)
