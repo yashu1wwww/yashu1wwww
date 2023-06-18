@@ -112,7 +112,7 @@ Languages & Tools:
 </p>
 </br> 
    
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashu1wwww&theme=light&layout=compact)](https://github.com/anuraghazra/github-readme-stats"> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashu1wwww&show_icons=true&locale=en&layout=compact" alt="yashu1wwww" /></p>
 
 </div>
 
