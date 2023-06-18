@@ -6,6 +6,8 @@
   <img src="https://raw.githubusercontent.com/AyoubMs/AyoubMS/main/Banner.gif">
 </div>
 
+![Black Liquid Minimalis Daily Quotes Linked In Banner](https://i.ibb.co/SKJwZWb/Black-Liquid-Minimalist-Daily-Quotes-Linked-In-Banner.png)
+
 <p align="center">
   <div align="center">
     <img
