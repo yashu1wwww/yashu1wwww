@@ -140,7 +140,7 @@ Languages & Tools:
   <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes" style="width: 400px; height: 300px;">
 </a>
   
-Show some ❤️ by starring some of the repositories!
+Show some ⭐ to some repositories!
   
 ![wave](https://user-images.githubusercontent.com/65462564/225171686-93c2fd4b-ced4-4602-85e4-13deacf4af62.svg)
 
