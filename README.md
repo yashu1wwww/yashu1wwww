@@ -29,14 +29,15 @@
 
 - 😄 Pronouns: He/His
 
+- 💻 𝙊𝙪𝙩 𝙤𝙛 70+ 𝙧𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙞𝙚𝙨, 45 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙖𝙧𝙚 𝙣𝙚𝙬.
+
+  https://shorturl.at/cwyD9
 
 - 💻 𝙄 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙙 𝘼 𝙇𝙞𝙫𝙚 𝙏𝙧𝙖𝙘𝙠𝙚𝙧 𝙁𝙤𝙧 𝙏𝙝𝙚 𝙉𝙪𝙢𝙗𝙚𝙧 𝙊𝙛 𝙋𝙧𝙤𝙛𝙞𝙡𝙚 𝙑𝙞𝙚𝙬𝙨 & 𝙁𝙤𝙡𝙡𝙤𝙬𝙚𝙧𝙨 𝘾𝙤𝙪𝙣𝙩 𝙊𝙣 𝙂𝙞𝙩𝙃𝙪𝙗.
 
   https://shorturl.at/jCPX3
   
 - 💻 AWS Certified Cloud Practitioner✔️
-
-- 💻 𝐌𝐚𝐝𝐞 𝘽𝙤𝙤𝙠𝙈𝙮𝙎𝙝𝙤𝙬 𝘼𝙪𝙩𝙤 𝙍𝙖𝙩𝙞𝙣𝙜𝙨✔️
 
 - 💻 𝐌𝐚𝐝𝐞 100 𝙔𝙤𝙪𝙩𝙪𝙗𝙚 𝘼𝙪𝙩𝙤 𝙇𝙞𝙠𝙚𝙨 𝐅𝐨𝐫 𝐁𝐨𝐭𝐡 𝐘𝐭 𝐕𝐢𝐝𝐞𝐨 & 𝐘𝐭 𝐒𝐡𝐨𝐫𝐭𝐬 𝙐𝙨𝙞𝙣𝙜 𝙎𝙚𝙡𝙚𝙣𝙞𝙪𝙢 𝙒𝙞𝙩𝙝 𝙋𝙮𝙩𝙝𝙤𝙣 𝙄𝙣 𝙇𝙤𝙘𝙖𝙡𝙝𝙤𝙨𝙩.
 
@@ -47,10 +48,6 @@
 - 💻 62𝙆+ 𝙡𝙞𝙣𝙚𝙨 𝙤𝙛 𝙘𝙤𝙙𝙚 𝙛𝙤𝙧 𝙖 𝙨𝙞𝙣𝙜𝙡𝙚 𝙨𝙘𝙧𝙞𝙥𝙩 𝙞𝙣 𝙂𝙞𝙩𝙃𝙪𝙗.
 
   https://shorturl.at/oBHSU
-
-- 💻 𝙊𝙪𝙩 𝙤𝙛 70+ 𝙧𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙞𝙚𝙨, 44 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙖𝙧𝙚 𝙣𝙚𝙬.
-
-  https://shorturl.at/cwyD9
 
 - 🌱 I am currently learning more about front-end development.
 
