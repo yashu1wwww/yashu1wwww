@@ -21,7 +21,7 @@
 <h2 align="center">𝘼 𝙋𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝘽𝙤𝙩 & 𝐅𝐫𝐨𝐧𝐭 𝐄𝐧𝐝 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧🤖</h3>
 
 # 💫 About Me :
-![](https://img.shields.io/badge/Front%20Developer%20%2F%20Cyber%20Security🎯-Analyzer%20%2F%20Memer%20%2F%20Bot%20Developer%20-white)
+![](https://img.shields.io/badge/Tech%20Enthusiastic%20%2F%20Analyzer%20%2F%20Memer%20%2F%20Bot%20Developer%20-white)
 <!--
 ![](https://img.shields.io/badge/Twitch-Persembe%20--%20Pazar%20Gunleri%20Saat%2020.00-purple)
 ![](https://img.shields.io/badge/Youtube-Carsamba%20--%20Cumartesi%20Saat%2017.00-red)
