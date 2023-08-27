@@ -1,7 +1,5 @@
 <h3 align="center">
-
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header)
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header" alt="GitHub Overview">
 
 <p align="center">
   <div align="center">
