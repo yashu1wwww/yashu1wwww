@@ -85,7 +85,7 @@ Languages & Tools:
   
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,aws,selenium,html,css,vscode,bots,androidstudio,eclipse,linux,git,stackoverflow," />
+    <img src="https://skillicons.dev/icons?i=java,aws,selenium,html,css,vscode,wordpress,bots,androidstudio,eclipse,linux,git,stackoverflow," />
   </a>
 </p>  
  
