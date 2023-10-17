@@ -50,7 +50,7 @@
 
 - 🌱 I am currently learning more about front-end development, Java, Facebook, Instagram, Twitter, and data fetching for live counts on Bookmyshow.
 
-- 💁‍♂️ I’m looking for help with bots & front end.
+- 💁‍♂️ I’m looking for help with bots.
 
 - 💬 If you have any doubts about my projects, feel free to ask me.
 
