@@ -50,7 +50,7 @@
 
 - 💬 If you have any doubts about my projects, feel free to ask me. Additionally,
 
-- If you're interested in projects or websites using WordPress, you can inbox me.
+- 📩 If you're interested in projects or websites using WordPress, you can inbox me.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
