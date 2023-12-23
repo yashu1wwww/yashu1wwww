@@ -71,10 +71,7 @@ Connect With Me:
    <a href="https://instagram.com/work_it_lit?igshid=Yzg5MTU1MDY=" target="blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://instagram.com/utkarsh_pathrabe" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
-   <a href="https://t.me/yashu6675" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="https://instagram.com/utkarsh_pathrabe" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+    --------------------------------------------------------------------------------------------------------------------------------------------------------------
     
 <h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
 Languages & Tools:
