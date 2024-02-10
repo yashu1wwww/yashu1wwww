@@ -75,7 +75,7 @@ Languages & Tools:
   
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=wordpress,py,aws,selenium,html,css,vscode,bots,androidstudio,linux,git," />
+    <img src="https://skillicons.dev/icons?i=wordpress,py,aws,selenium,html,css,vscode,bots,docker,linux,git," />
   </a>
 </p>  
  
