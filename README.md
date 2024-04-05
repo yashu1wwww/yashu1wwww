@@ -44,7 +44,7 @@
 
 - 💻 𝙈𝙖𝙙𝙚 100 𝙔𝙤𝙪𝙩𝙪𝙗𝙚 𝘼𝙪𝙩𝙤 𝙎𝙪𝙗𝙨𝙘𝙧𝙞𝙗𝙚𝙧𝙨 𝙐𝙨𝙞𝙣𝙜 𝙎𝙚𝙡𝙚𝙣𝙞𝙪𝙢 𝙒𝙞𝙩𝙝 𝙋𝙮𝙩𝙝𝙤𝙣 o𝙣 𝙇𝙤𝙘𝙖𝙡𝙝𝙤𝙨𝙩
 
-- 🌱 I am currently learning more about docker,flask.
+- 🌱 I am currently learning more about docker, WordPress 
 
 - 💁‍♂️ I’m looking for help with bots.
 
