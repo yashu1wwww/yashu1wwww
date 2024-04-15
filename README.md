@@ -2,6 +2,8 @@
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header" alt="GitHub Overview">
 
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/AnandAudio)](https://www.youtube.com/AnandAudio)
+
 <p align="center">
   <div align="center">
     <img
