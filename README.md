@@ -2,6 +2,9 @@
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header" alt="GitHub Overview">
 
+![View Count](https://img.shields.io/youtube/views/ayCBGl4Lqe8?label=View%20Count&style=for-the-badge&color=3d3d3d&format=commas)
+
+
 <p align="center">
   <div align="center">
     <img
