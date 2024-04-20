@@ -1,9 +1,6 @@
 <h3 align="center">
 
-<img alt="YouTube Video Likes" src="https://img.shields.io/youtube/likes/n0HBHxYhnvM">
-
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header" alt="GitHub Overview">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header" alt="GitHub Overview">
 
 <p align="center">
   <div align="center">
