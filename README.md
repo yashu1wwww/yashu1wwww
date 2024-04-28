@@ -46,8 +46,6 @@
 
 - 🌱 I am currently learning more about docker, WordPress 
 
-- 💁‍♂️ I’m looking for help with bots.
-
 - 💬 If you have any doubts about my projects, feel free to ask me. Additionally,
 
 - 📩 If you're interested in projects or websites using WordPress, you can inbox me.
