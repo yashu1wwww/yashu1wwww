@@ -83,10 +83,7 @@ Languages & Tools:
 
 # 📊 GitHub Stats
 
-<p align="center">
-<img style="border-radius: 50px;" src="https://github-readme-stats.vercel.app/api?username=yashu1wwww&show_icons=true&theme=transparent">
-</p>
-  
+[![Stats](https://github-stats-alpha.vercel.app/api/?username=yashu1wwww&cc=fff&tc=DF7431&ic=DF7431 "Stats")](https://github.com/yashu1wwww "Stats")
 </br> 
 <p align="center">  
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashu1wwww&theme=vue" />
