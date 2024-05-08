@@ -32,10 +32,6 @@
 
   https://yashwanthwebproject.netlify.app
 
-- 💻 𝙈𝙮 𝙂𝙞𝙩𝙃𝙪𝙗 𝙍𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙞𝙚𝙨 𝘼𝙧𝙚 𝙏𝙤𝙥 𝙄𝙣 𝙂𝙤𝙤𝙜𝙡𝙚 𝙎𝙚𝙖𝙧𝙘𝙝 𝙍𝙚𝙨𝙪𝙡𝙩.
-
-  https://shorturl.at/fuDM8
-
 - 💻 AWS Certified Cloud Practitioner✔️
 
 - 💻 𝐌𝐚𝐝𝐞 100 𝙔𝙤𝙪𝙩𝙪𝙗𝙚 𝘼𝙪𝙩𝙤 𝙇𝙞𝙠𝙚𝙨 𝐅𝐨𝐫 𝐁𝐨𝐭𝐡 𝐘𝐭 𝐕𝐢𝐝𝐞𝐨 & 𝐘𝐭 𝐒𝐡𝐨𝐫𝐭𝐬 𝙐𝙨𝙞𝙣𝙜 𝙎𝙚𝙡𝙚𝙣𝙞𝙪𝙢 𝙒𝙞𝙩𝙝 𝙋𝙮𝙩𝙝𝙤𝙣 o𝙣 𝙇𝙤𝙘𝙖𝙡𝙝𝙤𝙨𝙩.
