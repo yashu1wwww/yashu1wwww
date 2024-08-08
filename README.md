@@ -57,14 +57,11 @@ Connect With Me:
 Languages & Tools:
 </h3>
 <p align="center" style='margin: 16px 4px 8px;'>
-  
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="thttps://skillicons.dev/icons?i=wordpress,py,aws,selenium,html,css,vscode,bots,docker,linux,git,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=python,wordpress,vscode,html,css,docker,git,aws" />
   </a>
-</p>  
- 
--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
 
