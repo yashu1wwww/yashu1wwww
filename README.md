@@ -54,7 +54,8 @@ Connect With Me:
         <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://linkedin.com/in/utkarshpathrabe" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
 <h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
-Languages & Tools:
+
+  Languages & Tools:
 </h3>
 <p align="center" style='margin: 16px 4px 8px;'>
 
@@ -62,6 +63,8 @@ Languages & Tools:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,wordpress,vscode,html,css,docker,git,aws" />
   </a>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
 
