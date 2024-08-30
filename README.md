@@ -1,6 +1,5 @@
-<h3 style="text-align: center;">
-    <img width="100%" title="YASHU1WWWWW" alt="YASHU1WWWWW" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-</h3>
+<h3 align="center">
+<img width=100% title="UTPAL CODING" alt="UTPAL CODING" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 
 <p align="center">
