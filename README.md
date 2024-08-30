@@ -1,8 +1,5 @@
 <h3 align="center">
-<img width=100% title="UTPAL CODING" alt="UTPAL CODING" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=UTPAL-CODING&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header" alt="GitHub Overview">
+<img width=100% title="UTPAL CODING" alt="UTPAL CODING" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=RESET-RECHARGE-REFOCUS&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <p align="center">
   <div align="center">
