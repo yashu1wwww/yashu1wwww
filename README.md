@@ -16,8 +16,12 @@
   </a>
 </p>
 
+<a href="#">
+ <img align="right" src="https://github.com/sandipanrakshit34/sandipanrakshit34/blob/main/engineer1.gif" height ="205" width="335"/>
+ </a>
+ <div align="left">
+<p>
 
-<img align="center" alt="Coding" width="600" src="https://camo.githubusercontent.com/a6c792917f20519d382e1d73d6efde115c7d3b798cbf16f146ceab907c52eb4d/68747470733a2f2f7777772e616e696d616170702e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032312f30372f64657369676e65726769662e676966" alt="gif">
 
 <h1 align="center">Hi 👋 I'm Yashwanth R</h1>
 <h2 align="center">𝘼 𝙋𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝘽𝙤𝙩 & 𝐅𝐫𝐨𝐧𝐭 𝐄𝐧𝐝 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧</h3>
