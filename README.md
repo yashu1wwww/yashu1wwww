@@ -41,7 +41,7 @@
 
 - 💻 AWS Certified Cloud Practitioner✔️
 
-- 🌱 I am currently learning more about docker, WordPress 
+- 🌱 I am currently learning more about mern stack.
 
 - 💬 If you have any doubts about my projects, feel free to ask me. Additionally,
 
