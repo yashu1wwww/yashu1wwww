@@ -68,7 +68,7 @@ Connect With Me:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=selenium,python,wordpress,vscode,html,css,docker,git,aws,ubuntu,linux" />
+    <img src="https://skillicons.dev/icons?i=selenium,python,wordpress,vscode,html,css,docker,git,aws,linux" />
   </a>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
