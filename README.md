@@ -35,6 +35,10 @@
 
 - 😄 Pronouns: He/His
 
+- 💻 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨
+  
+  https://yashu1wwww.github.io
+
 - 💻 𝙈𝙮 𝙒𝙚𝙗 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨
 
   https://yashwanthwebproject.netlify.app
