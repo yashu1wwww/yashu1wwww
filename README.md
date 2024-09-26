@@ -1,15 +1,5 @@
 <img width="100%" title="CODING" alt="CODING" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<p align="center">
-  <div align="center">
-    <img
-        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=WELCOME+TO+MY+WORLD!+;Bot+Developer+;Front+End+Developer+;Good+Sense+Of+Humour🔑+;Learning+New+Things🧩+;Cyber+Security🎯"
-            alt="Typing SVG"
-        />
-    </a>
-</p>
-</div>
-
 
 <a href="#">
  <img align="right" src="https://github.com/sandipanrakshit34/sandipanrakshit34/blob/main/engineer1.gif" height ="205" width="335"/>
@@ -19,10 +9,9 @@
 
 
 <h1 align="center">Hi 👋 I'm Yashwanth R</h1>
-<h2 align="center">𝘼 𝙋𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝘽𝙤𝙩 & 𝐅𝐫𝐨𝐧𝐭 𝐄𝐧𝐝 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧</h3>
+<h2 align="center">𝘼 𝙋𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝘽𝙤𝙩 & 𝐖𝐞𝐛 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧</h3>
 
 # 💫 About Me :
-![](https://img.shields.io/badge/Tech%20Enthusiastic%20%2F%20Analyzer%20%2F%20Memer%20%2F%20Bot%20Developer%20-white)
 <!--
 ![](https://img.shields.io/badge/Twitch-Persembe%20--%20Pazar%20Gunleri%20Saat%2020.00-purple)
 ![](https://img.shields.io/badge/Youtube-Carsamba%20--%20Cumartesi%20Saat%2017.00-red)
