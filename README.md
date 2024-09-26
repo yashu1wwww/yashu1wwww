@@ -10,11 +10,6 @@
 </p>
 </div>
 
-<p align="center">
-  <a href="https://hits.sh/github.com/yashu1wwww/">
-    <img alt="Hits" src="https://hits.sh/github.com/yashu1wwww.svg?label=PROFILE%20VIEWS&extraCount=101000&color=e51c1c"/>
-  </a>
-</p>
 
 <a href="#">
  <img align="right" src="https://github.com/sandipanrakshit34/sandipanrakshit34/blob/main/engineer1.gif" height ="205" width="335"/>
