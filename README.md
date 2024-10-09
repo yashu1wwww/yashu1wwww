@@ -29,7 +29,7 @@
 
 - 💻 AWS Certified Cloud Practitioner✔️
 
-- 🌱 I am currently learning more about mern stack.
+- 🌱 I am currently learning more about mern stack & Ml & Dl.
 
 - 💬 If you have any doubts about my projects, feel free to ask me. Additionally,
 
