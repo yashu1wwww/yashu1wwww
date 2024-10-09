@@ -31,7 +31,7 @@
 
 - 🌱 I am currently learning more about mern stack & Ml & Dl.
 
-- 💬 If you have any doubts about my projects, feel free to ask me. Additionally,
+- 💬 If you have any doubts about my projects, feel free to ask me.
 
 - 📩 If you're interested in projects or websites using WordPress, you can inbox me.
 
