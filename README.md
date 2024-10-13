@@ -27,6 +27,10 @@
 
   https://yashwanthwebproject.netlify.app
 
+  - 🧑‍💻𝙋𝙧𝙤𝙟𝙚𝙘𝙩 𝙊𝙫𝙚𝙧𝙫𝙞𝙚𝙬
+  
+  https://www.youtube.com/watch?v=8Vzwi07ryQ0
+
 - 💻 AWS Certified Cloud Practitioner✔️
 
 - 🌱 I am currently learning more about mern stack & Ml & Dl.
