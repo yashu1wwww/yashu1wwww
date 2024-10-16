@@ -54,15 +54,6 @@ Connect With Me:
     </a>
 <h3 align="center" style='margin: 32px 4px 8px; font-size: 24px;'>
 
-  Languages & Tools:
-</h3>
-<p align="center" style='margin: 16px 4px 8px;'>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=selenium,python,wordpress,vscode,html,css,docker,git,aws,linux" />
-  </a>
-
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
