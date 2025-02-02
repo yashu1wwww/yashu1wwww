@@ -1,11 +1,6 @@
 <img width="100%" title="CODING" alt="CODING" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-
-<a href="#">
- <img align="right" src="https://github.com/sandipanrakshit34/sandipanrakshit34/blob/main/engineer1.gif" height ="205" width="335"/>
- </a>
- <div align="left">
-<p>
+![Developer](https://raw.githubusercontent.com/djvelimir/djvelimir/main/images/developer-activity-animate.svg)
 
 
 <h1 align="center">Hi 👋 I'm Yashwanth R</h1>
