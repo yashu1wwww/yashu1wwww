@@ -1,7 +1,8 @@
 <img width="100%" title="CODING" alt="CODING" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-![Developer](https://raw.githubusercontent.com/djvelimir/djvelimir/main/images/developer-activity-animate.svg)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/djvelimir/djvelimir/main/images/developer-activity-animate.svg" width="500" height="500">
+</p>
 
 <h1 align="center">Hi 👋 I'm Yashwanth R</h1>
 <h2 align="center">𝘼 𝙋𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝘽𝙤𝙩 & 𝐖𝐞𝐛 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧</h3>
