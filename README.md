@@ -23,10 +23,6 @@
 
   https://yashwanthwebproject.netlify.app
 
-  https://www.kaggle.com/yashu1wwww/code
-
-  https://greasyfork.org/en/users/1405453-yashu
-
 - 💻 AWS Certified Cloud Practitioner✔️
 
 - 🌱 I am currently learning more about mern stack & cyber security.
