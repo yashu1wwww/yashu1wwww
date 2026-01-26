@@ -29,9 +29,9 @@
 
 - 💬 If you have any doubts about my projects, feel free to ask me.
 
-https://greasyfork.org/en/users/1405453-yashwanth-r
+  https://greasyfork.org/en/users/1405453-yashwanth-r
 
-https://www.kaggle.com/yashu1wwww/code
+  https://www.kaggle.com/yashu1wwww/code
 
 - 📩 If you're interested in projects or websites using WordPress, you can inbox me.
 
