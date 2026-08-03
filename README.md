@@ -17,7 +17,7 @@
 
 - 🌐 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨
 
-  https://yashu1wwww.github.io
+  https://yashu1wwww.netlify.app/
 
 - 💻 𝙈𝙮 𝙒𝙚𝙗 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨
 
